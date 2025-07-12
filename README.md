@@ -1,4 +1,4 @@
-👋 Hi, I’m Harsh Bisht<br/>
+##Hi, I’m Harsh <br/>
 🎓 B.Tech CSE graduate from GEHU Bhimtal<br/>
 💡 Passionate about AI/ML, Web Development & Cloud Computing<br/>
 🛠️ Skilled in: Python · JavaScript · React · Node.js · Flask · Django · TensorFlow · MongoDB · AWS<br/>
